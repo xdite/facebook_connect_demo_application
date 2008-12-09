@@ -6,7 +6,7 @@ This is a demo application for Facebook Connect on Rails.
 
 == Requirement
 
-sudo gem install ruby-openid
+sudo gem install facebooker (optional)
 
 == Contain plugin
 
