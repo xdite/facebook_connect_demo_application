@@ -16,6 +16,10 @@ http://github.com/technoweenie/restful-authentication/tree
 Facebooker
 http://github.com/mmangino/facebooker/tree/master
 
+* Notice
+
+Callback URL must be "http://blablahbla.com/connect"
+
 
 == Author & License
 Author: Yi-Ting Cheng (mailto:xdite@handlino.com)
