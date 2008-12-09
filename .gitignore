@@ -1,0 +1,6 @@
+log/*.log
+db/schema.rb    
+tmp/**/*
+config/*.yml
+*.*~
+config/mongrel_cluster.yml

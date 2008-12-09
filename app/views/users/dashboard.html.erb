@@ -1,0 +1,6 @@
+<% if current_user %>
+<%= current_user.id %>
+<%= current_user.login %>
+<%= image_tag @facebook_session.user.pic %>
+<%= link_to 'Logout', logout_path %>
+<% end %>

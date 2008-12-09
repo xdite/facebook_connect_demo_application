@@ -1,0 +1,23 @@
+= Facebook Connect Demo Application
+
+== Description
+
+This is a demo application for Facebook Connect on Rails.
+
+== Requirement
+
+sudo gem install ruby-openid
+
+== Contain plugin
+
+Restful Authentication
+http://github.com/technoweenie/restful-authentication/tree
+
+Facebooker
+http://github.com/mmangino/facebooker/tree/master
+
+
+== Author & License
+Author: Yi-Ting Cheng (mailto:xdite@handlino.com)
+Copyright (c) 2008 Handlino Inc.
+Licensed under the MIT: http://www.opensource.org/licenses/mit-license.php
